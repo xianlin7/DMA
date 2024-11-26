@@ -1,4 +1,4 @@
-# ConvFormer
+# DMA
 This repo is the official implementation for:\
 [MICCAI2024] [Revisiting Self-attention in Medical Transformers via Dependency Sparsification](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_52).\
 (The details of our DMA can be found at the models directory in this repo or in the paper. We take SETR for example.)
